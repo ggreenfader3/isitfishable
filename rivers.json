@@ -1,0 +1,242 @@
+[
+  {
+    "slug": "madison-river-below-hebgen",
+    "river": "Madison River",
+    "stretch": "below Hebgen Dam",
+    "site": "06038500",
+    "region": "Madison and Gallatin",
+    "guideTown": "ennis"
+  },
+  {
+    "slug": "upper-madison-river",
+    "river": "Madison River",
+    "stretch": "at Kirby Ranch (upper Madison)",
+    "site": "06038800",
+    "region": "Madison and Gallatin",
+    "guideTown": "ennis"
+  },
+  {
+    "slug": "lower-madison-river",
+    "river": "Madison River",
+    "stretch": "below Ennis Lake (lower Madison)",
+    "site": "06041000",
+    "region": "Madison and Gallatin",
+    "guideTown": "bozeman"
+  },
+  {
+    "slug": "gallatin-river",
+    "river": "Gallatin River",
+    "stretch": "near Gallatin Gateway",
+    "site": "06043500",
+    "region": "Madison and Gallatin",
+    "guideTown": "bozeman"
+  },
+  {
+    "slug": "gallatin-river-big-sky",
+    "river": "Gallatin River",
+    "stretch": "above Deer Creek, near Big Sky",
+    "site": "06043120",
+    "region": "Madison and Gallatin",
+    "guideTown": "big-sky"
+  },
+  {
+    "slug": "lower-gallatin-river",
+    "river": "Gallatin River",
+    "stretch": "at Logan (lower Gallatin)",
+    "site": "06052500",
+    "region": "Madison and Gallatin",
+    "guideTown": "bozeman"
+  },
+  {
+    "slug": "yellowstone-river-gardiner",
+    "river": "Yellowstone River",
+    "stretch": "at Corwin Springs, near Gardiner",
+    "site": "06191500",
+    "region": "Yellowstone and Beartooths",
+    "guideTown": "livingston"
+  },
+  {
+    "slug": "yellowstone-river-livingston",
+    "river": "Yellowstone River",
+    "stretch": "near Livingston",
+    "site": "06192500",
+    "region": "Yellowstone and Beartooths",
+    "guideTown": "livingston"
+  },
+  {
+    "slug": "shields-river",
+    "river": "Shields River",
+    "stretch": "near Livingston",
+    "site": "06195600",
+    "region": "Yellowstone and Beartooths",
+    "guideTown": "livingston"
+  },
+  {
+    "slug": "boulder-river",
+    "river": "Boulder River",
+    "stretch": "at Big Timber",
+    "site": "06200000",
+    "region": "Yellowstone and Beartooths",
+    "guideTown": null
+  },
+  {
+    "slug": "stillwater-river",
+    "river": "Stillwater River",
+    "stretch": "near Absarokee",
+    "site": "06205000",
+    "region": "Yellowstone and Beartooths",
+    "guideTown": null
+  },
+  {
+    "slug": "bighorn-river",
+    "river": "Bighorn River",
+    "stretch": "below Yellowtail Afterbay Dam",
+    "site": "06287000",
+    "region": "Central Montana",
+    "guideTown": null
+  },
+  {
+    "slug": "big-spring-creek",
+    "river": "Big Spring Creek",
+    "stretch": "near Lewistown",
+    "site": "06111800",
+    "region": "Central Montana",
+    "guideTown": null
+  },
+  {
+    "slug": "missouri-river-craig",
+    "river": "Missouri River",
+    "stretch": "below Holter Dam, near Craig",
+    "site": "06066500",
+    "region": "Central Montana",
+    "guideTown": "craig"
+  },
+  {
+    "slug": "dearborn-river",
+    "river": "Dearborn River",
+    "stretch": "near Craig",
+    "site": "06073500",
+    "region": "Central Montana",
+    "guideTown": "craig"
+  },
+  {
+    "slug": "smith-river",
+    "river": "Smith River",
+    "stretch": "near Fort Logan",
+    "site": "06076690",
+    "region": "Central Montana",
+    "guideTown": "helena"
+  },
+  {
+    "slug": "jefferson-river",
+    "river": "Jefferson River",
+    "stretch": "near Three Forks",
+    "site": "06036650",
+    "region": "Southwest Montana",
+    "guideTown": "three-forks"
+  },
+  {
+    "slug": "beaverhead-river",
+    "river": "Beaverhead River",
+    "stretch": "near Twin Bridges",
+    "site": "06018500",
+    "region": "Southwest Montana",
+    "guideTown": "twin-bridges"
+  },
+  {
+    "slug": "ruby-river",
+    "river": "Ruby River",
+    "stretch": "below Ruby Reservoir",
+    "site": "06020600",
+    "region": "Southwest Montana",
+    "guideTown": "sheridan"
+  },
+  {
+    "slug": "big-hole-river",
+    "river": "Big Hole River",
+    "stretch": "near Melrose",
+    "site": "06025500",
+    "region": "Southwest Montana",
+    "guideTown": "twin-bridges"
+  },
+  {
+    "slug": "upper-big-hole-river",
+    "river": "Big Hole River",
+    "stretch": "below Big Lake Creek, at Wisdom",
+    "site": "06024450",
+    "region": "Southwest Montana",
+    "guideTown": "dillon"
+  },
+  {
+    "slug": "blackfoot-river",
+    "river": "Blackfoot River",
+    "stretch": "near Bonner",
+    "site": "12340000",
+    "region": "Missoula and Bitterroot",
+    "guideTown": "missoula"
+  },
+  {
+    "slug": "rock-creek",
+    "river": "Rock Creek",
+    "stretch": "near Clinton",
+    "site": "12334510",
+    "region": "Missoula and Bitterroot",
+    "guideTown": "missoula"
+  },
+  {
+    "slug": "clark-fork-river-missoula",
+    "river": "Clark Fork",
+    "stretch": "above Missoula",
+    "site": "12340500",
+    "region": "Missoula and Bitterroot",
+    "guideTown": "missoula"
+  },
+  {
+    "slug": "bitterroot-river-darby",
+    "river": "Bitterroot River",
+    "stretch": "near Darby",
+    "site": "12344000",
+    "region": "Missoula and Bitterroot",
+    "guideTown": "darby"
+  },
+  {
+    "slug": "bitterroot-river-missoula",
+    "river": "Bitterroot River",
+    "stretch": "near Missoula",
+    "site": "12352500",
+    "region": "Missoula and Bitterroot",
+    "guideTown": "missoula"
+  },
+  {
+    "slug": "kootenai-river",
+    "river": "Kootenai River",
+    "stretch": "below Libby Dam",
+    "site": "12301933",
+    "region": "Northwest Montana",
+    "guideTown": null
+  },
+  {
+    "slug": "flathead-river",
+    "river": "Flathead River",
+    "stretch": "at Columbia Falls",
+    "site": "12363000",
+    "region": "Northwest Montana",
+    "guideTown": "columbia-falls"
+  },
+  {
+    "slug": "middle-fork-flathead-river",
+    "river": "Middle Fork Flathead River",
+    "stretch": "near West Glacier",
+    "site": "12358500",
+    "region": "Northwest Montana",
+    "guideTown": "west-glacier"
+  },
+  {
+    "slug": "swan-river",
+    "river": "Swan River",
+    "stretch": "near Bigfork",
+    "site": "12370000",
+    "region": "Northwest Montana",
+    "guideTown": "bigfork"
+  }
+]

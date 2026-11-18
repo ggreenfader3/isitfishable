@@ -1,0 +1,322 @@
+[
+  {
+    "slug": "missouri-river-hauser",
+    "river": "Missouri River",
+    "stretch": "below Hauser Dam, near Helena",
+    "site": "06065500",
+    "region": "Central Montana",
+    "guideTown": "helena"
+  },
+  {
+    "slug": "east-gallatin-river",
+    "river": "East Gallatin River",
+    "stretch": "near Bozeman",
+    "site": "06048650",
+    "region": "Madison and Gallatin",
+    "guideTown": "bozeman"
+  },
+  {
+    "slug": "clark-fork-river-below-missoula",
+    "river": "Clark Fork",
+    "stretch": "below Missoula",
+    "site": "12353000",
+    "region": "Missoula and Bitterroot",
+    "guideTown": "missoula"
+  },
+  {
+    "slug": "clark-fork-river-turah",
+    "river": "Clark Fork",
+    "stretch": "at Turah Bridge, near Bonner",
+    "site": "12334550",
+    "region": "Missoula and Bitterroot",
+    "guideTown": "missoula"
+  },
+  {
+    "slug": "west-fork-bitterroot-river",
+    "river": "West Fork Bitterroot River",
+    "stretch": "near Conner",
+    "site": "12342500",
+    "region": "Missoula and Bitterroot",
+    "guideTown": "darby"
+  },
+  {
+    "slug": "south-fork-flathead-river",
+    "river": "South Fork Flathead River",
+    "stretch": "near Columbia Falls",
+    "site": "12362500",
+    "region": "Northwest Montana",
+    "guideTown": "columbia-falls"
+  },
+  {
+    "slug": "north-fork-flathead-river",
+    "river": "North Fork Flathead River",
+    "stretch": "near Columbia Falls",
+    "site": "12355500",
+    "region": "Northwest Montana",
+    "guideTown": "columbia-falls"
+  },
+  {
+    "slug": "stillwater-river-kalispell",
+    "river": "Stillwater River",
+    "stretch": "at Kalispell",
+    "site": "12365700",
+    "region": "Northwest Montana",
+    "guideTown": "kalispell"
+  },
+  {
+    "slug": "jefferson-river-twin-bridges",
+    "river": "Jefferson River",
+    "stretch": "near Twin Bridges",
+    "site": "06026500",
+    "region": "Southwest Montana",
+    "guideTown": "twin-bridges"
+  },
+  {
+    "slug": "upper-ruby-river",
+    "river": "Ruby River",
+    "stretch": "above Ruby Reservoir, near Alder",
+    "site": "06019500",
+    "region": "Southwest Montana",
+    "guideTown": "sheridan"
+  },
+  {
+    "slug": "missouri-river-cascade",
+    "river": "Missouri River",
+    "stretch": "at Cascade",
+    "site": "06074000",
+    "region": "Central Montana",
+    "guideTown": "craig"
+  },
+  {
+    "slug": "little-prickly-pear-creek",
+    "river": "Little Prickly Pear Creek",
+    "stretch": "at Wolf Creek",
+    "site": "06071300",
+    "region": "Central Montana",
+    "guideTown": "craig"
+  },
+  {
+    "slug": "prickly-pear-creek",
+    "river": "Prickly Pear Creek",
+    "stretch": "near Clancy",
+    "site": "06061500",
+    "region": "Central Montana",
+    "guideTown": "helena"
+  },
+  {
+    "slug": "hyalite-creek",
+    "river": "Hyalite Creek",
+    "stretch": "near Bozeman",
+    "site": "06050000",
+    "region": "Madison and Gallatin",
+    "guideTown": "bozeman"
+  },
+  {
+    "slug": "missouri-river-toston",
+    "river": "Missouri River",
+    "stretch": "at Toston",
+    "site": "06054500",
+    "region": "Central Montana",
+    "guideTown": "helena"
+  },
+  {
+    "slug": "whitefish-river",
+    "river": "Whitefish River",
+    "stretch": "near Kalispell",
+    "site": "12366000",
+    "region": "Northwest Montana",
+    "guideTown": "kalispell"
+  },
+  {
+    "slug": "madison-river-west-yellowstone",
+    "river": "Madison River",
+    "stretch": "near West Yellowstone",
+    "site": "06037500",
+    "region": "Madison and Gallatin",
+    "guideTown": null
+  },
+  {
+    "slug": "gardner-river",
+    "river": "Gardner River",
+    "stretch": "near Mammoth, Yellowstone",
+    "site": "06191000",
+    "region": "Yellowstone and Beartooths",
+    "guideTown": null
+  },
+  {
+    "slug": "soda-butte-creek",
+    "river": "Soda Butte Creek",
+    "stretch": "at Silver Gate",
+    "site": "06187915",
+    "region": "Yellowstone and Beartooths",
+    "guideTown": null
+  },
+  {
+    "slug": "yellowstone-river-billings",
+    "river": "Yellowstone River",
+    "stretch": "at Billings",
+    "site": "06214500",
+    "region": "Yellowstone and Beartooths",
+    "guideTown": null
+  },
+  {
+    "slug": "clarks-fork-yellowstone-river",
+    "river": "Clarks Fork Yellowstone River",
+    "stretch": "near Belfry",
+    "site": "06207500",
+    "region": "Yellowstone and Beartooths",
+    "guideTown": null
+  },
+  {
+    "slug": "rock-creek-red-lodge",
+    "river": "Rock Creek",
+    "stretch": "near Red Lodge",
+    "site": "06209500",
+    "region": "Yellowstone and Beartooths",
+    "guideTown": null
+  },
+  {
+    "slug": "lower-bighorn-river",
+    "river": "Bighorn River",
+    "stretch": "at Two Leggins Bridge, near Hardin",
+    "site": "06288400",
+    "region": "Central Montana",
+    "guideTown": null
+  },
+  {
+    "slug": "blackfoot-river-helmville",
+    "river": "Blackfoot River",
+    "stretch": "above Nevada Creek, near Helmville",
+    "site": "12335100",
+    "region": "Missoula and Bitterroot",
+    "guideTown": null
+  },
+  {
+    "slug": "north-fork-blackfoot-river",
+    "river": "North Fork Blackfoot River",
+    "stretch": "near Ovando",
+    "site": "12338300",
+    "region": "Missoula and Bitterroot",
+    "guideTown": null
+  },
+  {
+    "slug": "little-blackfoot-river",
+    "river": "Little Blackfoot River",
+    "stretch": "near Garrison",
+    "site": "12324590",
+    "region": "Missoula and Bitterroot",
+    "guideTown": null
+  },
+  {
+    "slug": "clark-fork-river-drummond",
+    "river": "Clark Fork",
+    "stretch": "near Drummond",
+    "site": "12331800",
+    "region": "Missoula and Bitterroot",
+    "guideTown": null
+  },
+  {
+    "slug": "middle-fork-rock-creek",
+    "river": "Middle Fork Rock Creek",
+    "stretch": "near Philipsburg",
+    "site": "12332000",
+    "region": "Missoula and Bitterroot",
+    "guideTown": null
+  },
+  {
+    "slug": "yaak-river",
+    "river": "Yaak River",
+    "stretch": "near Troy",
+    "site": "12304500",
+    "region": "Northwest Montana",
+    "guideTown": null
+  },
+  {
+    "slug": "tobacco-river",
+    "river": "Tobacco River",
+    "stretch": "at Eureka",
+    "site": "12301250",
+    "region": "Northwest Montana",
+    "guideTown": null
+  },
+  {
+    "slug": "fisher-river",
+    "river": "Fisher River",
+    "stretch": "near Libby",
+    "site": "12302055",
+    "region": "Northwest Montana",
+    "guideTown": null
+  },
+  {
+    "slug": "st-regis-river",
+    "river": "St. Regis River",
+    "stretch": "near St. Regis",
+    "site": "12354000",
+    "region": "Missoula and Bitterroot",
+    "guideTown": null
+  },
+  {
+    "slug": "thompson-river",
+    "river": "Thompson River",
+    "stretch": "near Thompson Falls",
+    "site": "12389500",
+    "region": "Northwest Montana",
+    "guideTown": null
+  },
+  {
+    "slug": "sun-river",
+    "river": "Sun River",
+    "stretch": "at Simms",
+    "site": "06085800",
+    "region": "Central Montana",
+    "guideTown": null
+  },
+  {
+    "slug": "north-fork-sun-river",
+    "river": "North Fork Sun River",
+    "stretch": "near Augusta",
+    "site": "06078500",
+    "region": "Central Montana",
+    "guideTown": null
+  },
+  {
+    "slug": "belt-creek",
+    "river": "Belt Creek",
+    "stretch": "near Monarch",
+    "site": "06090500",
+    "region": "Central Montana",
+    "guideTown": null
+  },
+  {
+    "slug": "boulder-river-boulder",
+    "river": "Boulder River",
+    "stretch": "near Boulder",
+    "site": "06033000",
+    "region": "Southwest Montana",
+    "guideTown": null
+  },
+  {
+    "slug": "musselshell-river",
+    "river": "Musselshell River",
+    "stretch": "at Harlowton",
+    "site": "06120500",
+    "region": "Central Montana",
+    "guideTown": null
+  },
+  {
+    "slug": "tongue-river",
+    "river": "Tongue River",
+    "stretch": "at the state line, near Decker",
+    "site": "06306300",
+    "region": "Eastern Montana",
+    "guideTown": null
+  },
+  {
+    "slug": "beaverhead-river-barretts",
+    "river": "Beaverhead River",
+    "stretch": "at Barretts (upper Beaverhead)",
+    "site": "06016000",
+    "region": "Southwest Montana",
+    "guideTown": "dillon"
+  }
+]
