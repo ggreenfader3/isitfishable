@@ -63,3 +63,17 @@ jobs:
     steps:
       - id: deployment
         uses: actions/deploy-pages@v4
+
+  ping-search-engines:
+    needs: deploy
+    if: github.event.schedule == '7 9 * * *' || inputs.add_river
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Tell IndexNow about the new page
+        run: node scripts/indexnow.mjs

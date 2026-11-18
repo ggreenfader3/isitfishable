@@ -464,6 +464,7 @@ await fs.writeFile(
 await fs.writeFile(path.join(dist, 'robots.txt'), `User-agent: *\nAllow: /\nSitemap: ${config.siteUrl}/sitemap.xml\n`);
 await fs.writeFile(path.join(dist, '.nojekyll'), '');
 if (config.customDomain) await fs.writeFile(path.join(dist, 'CNAME'), `${config.customDomain}\n`);
+if (config.indexNowKey) await fs.writeFile(path.join(dist, `${config.indexNowKey}.txt`), config.indexNowKey);
 
 // Snapshot for reporting.
 const snapshot = all.map((o) => ({
