@@ -246,5 +246,13 @@
     "site": "06065500",
     "region": "Central Montana",
     "guideTown": "helena"
+  },
+  {
+    "slug": "east-gallatin-river",
+    "river": "East Gallatin River",
+    "stretch": "near Bozeman",
+    "site": "06048650",
+    "region": "Madison and Gallatin",
+    "guideTown": "bozeman"
   }
 ]
