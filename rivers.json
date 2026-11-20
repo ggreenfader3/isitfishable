@@ -254,5 +254,13 @@
     "site": "06048650",
     "region": "Madison and Gallatin",
     "guideTown": "bozeman"
+  },
+  {
+    "slug": "clark-fork-river-below-missoula",
+    "river": "Clark Fork",
+    "stretch": "below Missoula",
+    "site": "12353000",
+    "region": "Missoula and Bitterroot",
+    "guideTown": "missoula"
   }
 ]
