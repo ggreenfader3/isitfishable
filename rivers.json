@@ -270,5 +270,13 @@
     "site": "12334550",
     "region": "Missoula and Bitterroot",
     "guideTown": "missoula"
+  },
+  {
+    "slug": "west-fork-bitterroot-river",
+    "river": "West Fork Bitterroot River",
+    "stretch": "near Conner",
+    "site": "12342500",
+    "region": "Missoula and Bitterroot",
+    "guideTown": "darby"
   }
 ]

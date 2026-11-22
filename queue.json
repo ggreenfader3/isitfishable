@@ -1,13 +1,5 @@
 [
   {
-    "slug": "west-fork-bitterroot-river",
-    "river": "West Fork Bitterroot River",
-    "stretch": "near Conner",
-    "site": "12342500",
-    "region": "Missoula and Bitterroot",
-    "guideTown": "darby"
-  },
-  {
     "slug": "south-fork-flathead-river",
     "river": "South Fork Flathead River",
     "stretch": "near Columbia Falls",
