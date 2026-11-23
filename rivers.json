@@ -278,5 +278,13 @@
     "site": "12342500",
     "region": "Missoula and Bitterroot",
     "guideTown": "darby"
+  },
+  {
+    "slug": "south-fork-flathead-river",
+    "river": "South Fork Flathead River",
+    "stretch": "near Columbia Falls",
+    "site": "12362500",
+    "region": "Northwest Montana",
+    "guideTown": "columbia-falls"
   }
 ]
