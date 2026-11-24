@@ -286,5 +286,13 @@
     "site": "12362500",
     "region": "Northwest Montana",
     "guideTown": "columbia-falls"
+  },
+  {
+    "slug": "north-fork-flathead-river",
+    "river": "North Fork Flathead River",
+    "stretch": "near Columbia Falls",
+    "site": "12355500",
+    "region": "Northwest Montana",
+    "guideTown": "columbia-falls"
   }
 ]
