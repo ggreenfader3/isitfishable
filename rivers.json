@@ -294,5 +294,13 @@
     "site": "12355500",
     "region": "Northwest Montana",
     "guideTown": "columbia-falls"
+  },
+  {
+    "slug": "stillwater-river-kalispell",
+    "river": "Stillwater River",
+    "stretch": "at Kalispell",
+    "site": "12365700",
+    "region": "Northwest Montana",
+    "guideTown": "kalispell"
   }
 ]
