@@ -302,5 +302,13 @@
     "site": "12365700",
     "region": "Northwest Montana",
     "guideTown": "kalispell"
+  },
+  {
+    "slug": "jefferson-river-twin-bridges",
+    "river": "Jefferson River",
+    "stretch": "near Twin Bridges",
+    "site": "06026500",
+    "region": "Southwest Montana",
+    "guideTown": "twin-bridges"
   }
 ]
