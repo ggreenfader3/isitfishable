@@ -310,5 +310,13 @@
     "site": "06026500",
     "region": "Southwest Montana",
     "guideTown": "twin-bridges"
+  },
+  {
+    "slug": "upper-ruby-river",
+    "river": "Ruby River",
+    "stretch": "above Ruby Reservoir, near Alder",
+    "site": "06019500",
+    "region": "Southwest Montana",
+    "guideTown": "sheridan"
   }
 ]
